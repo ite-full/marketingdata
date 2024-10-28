@@ -1,45 +1,5 @@
 [
     {
-        "campaign_id": "CC5C1",
-        "client_id": "C5",
-        "campaign_name": "Right-sized zero-defect installation",
-        "start_date": "30/11/2022",
-        "end_date": "28/02/2023",
-        "budget": "4879"
-    },
-    {
-        "campaign_id": "CC5C2",
-        "client_id": "C5",
-        "campaign_name": "Team-oriented didactic adapter",
-        "start_date": "18/10/2022",
-        "end_date": "28/03/2024",
-        "budget": "8730"
-    },
-    {
-        "campaign_id": "CC5C3",
-        "client_id": "C5",
-        "campaign_name": "User-friendly reciprocal synergy",
-        "start_date": "14/05/2023",
-        "end_date": "22/11/2023",
-        "budget": "1056"
-    },
-    {
-        "campaign_id": "CC5C4",
-        "client_id": "C5",
-        "campaign_name": "Stand-alone system-worthy interface",
-        "start_date": "15/09/2023",
-        "end_date": "11/02/2024",
-        "budget": "2981"
-    },
-    {
-        "campaign_id": "CC5C5",
-        "client_id": "C5",
-        "campaign_name": "Intuitive background open system",
-        "start_date": "01/12/2021",
-        "end_date": "07/09/2023",
-        "budget": "9742"
-    },
-    {
         "campaign_id": "CC6C1",
         "client_id": "C6",
         "campaign_name": "Assimilated cohesive access",
