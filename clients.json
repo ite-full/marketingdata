@@ -1,0 +1,52 @@
+[
+    {
+        "client_id": "C1",
+        "client_name": "Green-Wall",
+        "industry": "Retail"
+    },
+    {
+        "client_id": "C2",
+        "client_name": "Brown, Jones and Jackson",
+        "industry": "Healthcare"
+    },
+    {
+        "client_id": "C3",
+        "client_name": "Watts-Scott",
+        "industry": "Retail"
+    },
+    {
+        "client_id": "C4",
+        "client_name": "Brandt, Hartman and Lucas",
+        "industry": "Technology"
+    },
+    {
+        "client_id": "C5",
+        "client_name": "Myers-Bradley",
+        "industry": "Finance"
+    },
+    {
+        "client_id": "C6",
+        "client_name": "Cruz-Montgomery",
+        "industry": "Healthcare"
+    },
+    {
+        "client_id": "C7",
+        "client_name": "Petty-Rogers",
+        "industry": "Finance"
+    },
+    {
+        "client_id": "C8",
+        "client_name": "Day, Neal and Smith",
+        "industry": "Technology"
+    },
+    {
+        "client_id": "C9",
+        "client_name": "Thomas Inc",
+        "industry": "Technology"
+    },
+    {
+        "client_id": "C10",
+        "client_name": "Grant, Daniel and Garrett",
+        "industry": "Manufacturing"
+    }
+]

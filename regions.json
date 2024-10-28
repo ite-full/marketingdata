@@ -1,0 +1,22 @@
+[
+    {
+        "region_id": "R1",
+        "region_name": "Tanzania"
+    },
+    {
+        "region_id": "R2",
+        "region_name": "Cyprus"
+    },
+    {
+        "region_id": "R3",
+        "region_name": "Cambodia"
+    },
+    {
+        "region_id": "R4",
+        "region_name": "Serbia"
+    },
+    {
+        "region_id": "R5",
+        "region_name": "French Polynesia"
+    }
+]

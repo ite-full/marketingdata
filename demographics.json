@@ -1,0 +1,22 @@
+[
+    {
+        "demographic_id": "D1",
+        "demographic_name": "Age 35-44"
+    },
+    {
+        "demographic_id": "D2",
+        "demographic_name": "Age 55+"
+    },
+    {
+        "demographic_id": "D3",
+        "demographic_name": "Age 18-24"
+    },
+    {
+        "demographic_id": "D4",
+        "demographic_name": "Age 45-54"
+    },
+    {
+        "demographic_id": "D5",
+        "demographic_name": "Age 18-24"
+    }
+]
